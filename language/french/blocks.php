@@ -1,0 +1,36 @@
+<?php
+/**
+* XOOPS - PHP Content Management System
+* Copyright (c) 2004 <http://www.xoops.org/>
+*
+* Module: myCredits 1.0
+* Licence : GPL
+* Authors :
+*           - solo (www.wolfpackclan.com/wolfactory)
+*			- DuGris (www.dugris.info)
+*/
+
+define("_MB_MYCREDITS_DISPLAY",			"Mode d'affichage");
+define("_MB_MYCREDITS_LIST",			"Liste / Block sommaire");
+define("_MB_MYCREDITS_BLOCK",			"Block détaillé");
+define("_MB_MYCREDITS_SCROLL",			"&nbsp;&nbsp;-&nbsp;Défilement auto de bas en haut");
+define("_MB_MYCREDITS_MULTIPART",		"&nbsp;&nbsp;-&nbsp;Vue séquentielle (module par module)");
+
+define("_MB_MYCREDITS_NBCHAR",			"Nombre de caractères à afficher (0=tous)");
+
+define("_MB_MYCREDITS_TIPS",			"Afficher les info-bulles");
+
+define("_MB_MYCREDITS_SHOW",			"Dans les Blocs afficher");
+define("_MB_MYCREDITS_SHOW_TEXT",		"Liens Texte&nbsp;&nbsp;(Liste)");
+define("_MB_MYCREDITS_SHOW_IMAGES",		"Images&nbsp;&nbsp;&nbsp;(Block)");
+define("_MB_MYCREDITS_SHOW_BOTH",		"Les Deux&nbsp;&nbsp;&nbsp;(Block)");
+define("_MB_MYCREDITS_SHOW_LOGO",		"Logos personnalisés&nbsp;&nbsp;(Block)");
+
+define("_MB_MYCREDITS_LIST_OPT",		"Options - Mode Liste");
+define("_MB_MYCREDITS_SCROLL_OPT",		"Options - Mode Défilement auto de bas en haut");
+define("_MB_MYCREDITS_DYNAMIC_OPT",		"Options - Blocks dynamiques");
+
+define("_MB_MYCREDITS_HEIGHT",			"Hauteur du block (en pixel)");
+
+define("_MB_MYCREDITS_WAIT",			"Attente avant le défilement du block suivant (en seconde)");
+?>

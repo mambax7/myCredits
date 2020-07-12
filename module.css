@@ -1,0 +1,65 @@
+/**
+* XOOPS - PHP Content Management System
+* Copyright (c) 2004 <http://www.xoops.org/>
+*
+* Module: myCredits 1.0
+* Licence : GPL
+* Authors :
+*           - solo (www.wolfpackclan.com/wolfactory)
+*/
+
+.myCredits_collaps_title {
+	margin-bottom: 2px;
+    margin-top: 5px;
+    font-size: 12px;
+    line-height: 12px;
+    font-weight: bold;
+    display: block;
+}
+
+.myCredits_collaps_info {
+	margin: 3px 0 12px 0;
+    display: block;
+}
+
+/* Multipart */
+.myCredits_admin  {
+}
+
+.myCredits_public {
+}
+/* Multipart */
+
+
+/* Scroll */
+#pscrollerAdmin{
+	width: inherit;
+	padding: 0px;
+}
+
+.pscrollerAdminclass{
+	width: inherit;
+	padding: 0px;
+}
+
+#pscrollerPublic{
+	width: inherit;
+	padding: 0px;
+}
+
+.pscrollerPublicclass{
+	width: inherit;
+	padding: 0px;
+}
+/* Scroll */
+
+/* Tips / Infobulle */
+.myCreditsClass {
+	background-color: #EFF4F9;
+	border: 1px solid #647899;
+	padding: 5px;
+	margin: 0px;
+}
+/* Tips / Infobulle */
+
+/* end bd */
