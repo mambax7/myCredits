@@ -1,0 +1,6 @@
+Credits
+===============
+
+Originally developed by Solo, Dugris, and Wolfactory
+
+Version 2.0 was updated to XOOPS 2.5.11 Standard GUI by Michael Beck (Mamba)
